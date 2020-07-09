@@ -7,4 +7,4 @@ I'm a Senior Security Service Engineer at Microsoft who specializes in writing a
 - 👯 I’m looking to collaborate on projects that benefit the technology and software development community.
 - 💬 Ask me about secure software supply chain, professional development, CI/CD, PowerShell, working at Microsoft, or anything else that's reasonable!
 - 📫 How to reach me: By email at [thmsrynr@outlook.com](mailto:thmsrynr@outlook.com), on Twitter at [@MrThomasRayner](https://twitter.com/MrThomasRayner), or on [LinkedIn](linkedin.com/in/thomasrayner).
-- ⚡ Fun fact: I got my CISSP last year, and I don't feel any different.
+- ⚡ Fun fact: I got my CISSP, and I don't feel any different.
